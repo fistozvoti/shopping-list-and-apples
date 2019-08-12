@@ -1,0 +1,42 @@
+html,
+body {
+  background-color: gold;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%;
+}
+* {
+  font-size: large;
+  font-family: Impact;
+  color: black;
+  line-height: 1.5;
+  text-align: center;
+}
+h1 {
+    font-size: xx-large;
+}
+.error {
+    color: red;
+}
+.setPrice {
+    width: 60px;
+}
+.setBudget{
+    width: 60px
+}
+.appear{
+    border: solid black;
+    display: inline-block;
+    background-color: white;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding : 1em;
+    text-align: center;
+    font-weight: bold;
+    border : 0.25em solid;
+    border-radius: 1em;
+}
